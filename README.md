@@ -7,8 +7,7 @@ This repository contains my projects and notes for the 6-module course on master
 
 ## ⚡ Development Environment
 I am using this repo to compare **AI-native workflows**:
-* **Cursor + GitHub Codespaces:** For coding and remote compute.
-* **Google Antigravity:** For testing Gemini 3 powered agentic workflows.
+* **Cursor/Antigravity + GitHub Codespaces:** For coding and remote compute.
 
 ---
 
